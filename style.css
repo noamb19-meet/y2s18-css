@@ -3,3 +3,13 @@ body{
 	background-color: #2A007A;
 	color:#F5B0CB;
 }
+
+p{
+	color:red;font-family:"Times","serif";
+}
+.meat{color:green; font-size:20px; }
+.vegi{color:yellow;}
+#wow{background-color:black; }
+.sidebar{background-color:white; }
+.title{position: abs; height: 60px;width:100%;}
+.container{position: relative;}
